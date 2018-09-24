@@ -2,6 +2,13 @@
 
 xwpandas is high performance Excel IO tools for pandas DataFrame. xp.save function in xwpandas saves large(100k~ rows) DataFrame to xlsx format 2x~3x faster than xlsxwriter engine in pandas. 
 
+## Installation
+xwpandas can be installed using `pip` package manager.
+
+```bash
+$ pip install xwpandas
+```
+
 ## Usage
 
 ### Read data from Excel file
